@@ -1,5 +1,3 @@
-<!--
-
 ### Hi there , I'm Musa - Junior Web Developer with a Mechatronics Engineering background.👋
 
 I'm a Mechatronics Engineering graduate with a strong interest in web development. Welcome to my GitHub profile!
@@ -29,7 +27,5 @@ I hold a degree in Mechatronics Engineering and I'm a %100 English graduate. Des
 ## License
 
 Feel free to customize and use this README template on your own profile.
-
--->
 
 
