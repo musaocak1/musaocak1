@@ -3,14 +3,7 @@
 I'm a Mechatronics Engineering graduate with a strong interest in web development. Welcome to my GitHub profile!
 
 ## About Me
-I hold a degree in Mechatronics Engineering and I'm a %100 English graduate. Despite my engineering background, I've found my passion in web development. Currently, I'm working towards becoming a skilled front-end developer.
-- 🔭 I’m currently working on expanding my skills in front-end development and deepening my understanding of JavaScript frameworks like React.
-- 🌱 I’m currently learning about advanced CSS techniques to enhance the visual appeal of web applications and exploring best practices in responsive design.
-- 👯 I’m looking to collaborate on projects that involve creating interactive and user-friendly web interfaces, where I can contribute my front-end development skills and bring engaging digital experiences to life.
-- 🤔 I’m looking for help with improving my skills in backend development, particularly in setting up and managing databases, as well as understanding server-side technologies.
-- 💬 Ask me about my journey into the world of web development, the projects I've been working on, or any tips for getting started with front-end technologies like HTML, CSS, and JavaScript.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have an insatiable passion for the thrill of amusement park rides, and you'll often find me in the front seat of roller coasters, experiencing that exhilarating rush of adrenaline.
+I hold a degree in Mechatronics Engineering and I'm a %100 English graduate. Despite my engineering background, I've found my passion in web development. 
 
 ## Technologies and Languages
 
